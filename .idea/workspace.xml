@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66eaa504-c37f-4655-a928-5bb3b6daea53" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/latasha/jeriah/CurrencyConverter.java" afterPath="$PROJECT_DIR$/src/main/java/latasha/CurrencyConverter/CurrencyConverter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/latasha/jeriah/CurrencyConverterTest.java" afterPath="$PROJECT_DIR$/src/test/java/latasha/CurrencyConverter/CurrencyConverterTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/latasha/jeriah/CurrencyConverterTest.java" afterPath="$PROJECT_DIR$/src/test/java/latasha/jeriah/CurrencyConverterTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,14 +43,14 @@
         </entry>
       </file>
       <file leaf-file-name="CurrencyConverterTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/latasha/jeriah/CurrencyConverterTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/latasha/CurrencyConverter/CurrencyConverterTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="900">
-              <caret line="66" column="66" lean-forward="false" selection-start-line="66" selection-start-column="66" selection-end-line="66" selection-end-column="66" />
+              <caret line="65" column="66" lean-forward="false" selection-start-line="65" selection-start-column="66" selection-end-line="65" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#309#310#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -149,6 +148,14 @@
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CurrencyConverter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -223,15 +230,15 @@
     <configuration default="false" name="CurrencyConverterTest.EuroToDollarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="latasha.jeriah.*" />
+          <option name="PATTERN" value="latasha.CurrencyConverter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="WuTangFinancial" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="latasha.jeriah" />
-      <option name="MAIN_CLASS_NAME" value="latasha.jeriah.CurrencyConverterTest" />
+      <option name="PACKAGE_NAME" value="latasha.CurrencyConverter" />
+      <option name="MAIN_CLASS_NAME" value="latasha.CurrencyConverter.CurrencyConverterTest" />
       <option name="METHOD_NAME" value="EuroToDollarTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -249,15 +256,15 @@
     <configuration default="false" name="CurrencyConverterTest.SingaporeDollarToSwissFrancTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="latasha.jeriah.*" />
+          <option name="PATTERN" value="latasha.CurrencyConverter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="WuTangFinancial" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="latasha.jeriah" />
-      <option name="MAIN_CLASS_NAME" value="latasha.jeriah.CurrencyConverterTest" />
+      <option name="PACKAGE_NAME" value="latasha.CurrencyConverter" />
+      <option name="MAIN_CLASS_NAME" value="latasha.CurrencyConverter.CurrencyConverterTest" />
       <option name="METHOD_NAME" value="SingaporeDollarToSwissFrancTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -275,15 +282,15 @@
     <configuration default="false" name="CurrencyConverterTest.SwissFranctoMalaysianRinggitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="latasha.jeriah.*" />
+          <option name="PATTERN" value="latasha.CurrencyConverter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="WuTangFinancial" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="latasha.jeriah" />
-      <option name="MAIN_CLASS_NAME" value="latasha.jeriah.CurrencyConverterTest" />
+      <option name="PACKAGE_NAME" value="latasha.CurrencyConverter" />
+      <option name="MAIN_CLASS_NAME" value="latasha.CurrencyConverter.CurrencyConverterTest" />
       <option name="METHOD_NAME" value="SwissFranctoMalaysianRinggitTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -301,15 +308,15 @@
     <configuration default="false" name="CurrencyConverterTest.MalaysianRinggitToJapaneseYenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="latasha.jeriah.*" />
+          <option name="PATTERN" value="latasha.CurrencyConverter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="WuTangFinancial" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="latasha.jeriah" />
-      <option name="MAIN_CLASS_NAME" value="latasha.jeriah.CurrencyConverterTest" />
+      <option name="PACKAGE_NAME" value="latasha.CurrencyConverter" />
+      <option name="MAIN_CLASS_NAME" value="latasha.CurrencyConverter.CurrencyConverterTest" />
       <option name="METHOD_NAME" value="MalaysianRinggitToJapaneseYenTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -327,15 +334,15 @@
     <configuration default="false" name="CurrencyConverterTest.JapaneseYenToChineseYuanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="latasha.jeriah.*" />
+          <option name="PATTERN" value="latasha.CurrencyConverter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="WuTangFinancial" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="latasha.jeriah" />
-      <option name="MAIN_CLASS_NAME" value="latasha.jeriah.CurrencyConverterTest" />
+      <option name="PACKAGE_NAME" value="latasha.CurrencyConverter" />
+      <option name="MAIN_CLASS_NAME" value="latasha.CurrencyConverter.CurrencyConverterTest" />
       <option name="METHOD_NAME" value="JapaneseYenToChineseYuanTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -758,7 +765,7 @@
       <option name="presentableId" value="Default" />
       <updated>1487272268964</updated>
       <workItem from="1487272272760" duration="5253000" />
-      <workItem from="1487695139568" duration="89000" />
+      <workItem from="1487695139568" duration="219000" />
     </task>
     <servers />
   </component>
@@ -795,11 +802,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5342000" />
+    <option name="totallyTimeSpent" value="5472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="1" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -867,26 +874,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/latasha/jeriah/CurrencyConverterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/latasha/CurrencyConverter/CurrencyConverterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
           <caret line="65" column="66" lean-forward="false" selection-start-line="65" selection-start-column="66" selection-end-line="65" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/latasha/jeriah/CurrencyConverterTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/latasha/CurrencyConverter/CurrencyConverterTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
-          <caret line="66" column="66" lean-forward="false" selection-start-line="66" selection-start-column="66" selection-end-line="66" selection-end-column="66" />
+          <caret line="65" column="66" lean-forward="false" selection-start-line="65" selection-start-column="66" selection-end-line="65" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
           </folding>
         </state>
       </provider>
