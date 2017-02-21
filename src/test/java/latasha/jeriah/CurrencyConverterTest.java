@@ -1,5 +1,6 @@
 package latasha.jeriah;
 
+import latasha.CurrencyConverter.CurrencyConverter;
 import org.junit.Before;
 import org.junit.Test;
 

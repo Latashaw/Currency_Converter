@@ -1,4 +1,4 @@
-package latasha.jeriah;
+package latasha.CurrencyConverter;
 
 import java.util.HashMap;
 import java.util.Map;
